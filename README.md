@@ -1,5 +1,5 @@
 <h1 align="center">Ali Hassan Shaikh</h1>
-<h3 align="center">Backend Engineer • AI/ML • Fintech | University of Toronto</h3>
+<h3 align="center">Backend Engineer • Embedded Systems • AI/ML </h3>
 
 <p align="center">
   <a href="mailto:alihassan672009@outlook.com">Email</a> •
@@ -16,43 +16,60 @@
 
 ## 🧠 Profile
 
-Computer Science student at the **University of Toronto** with a strong focus on  
-**scalable backend systems, AI-driven applications, and fintech innovation**.
+Computer Science @ University of Toronto focused on:
 
-I build systems that are:
-- ⚡ Scalable  
-- 🧩 Well-architected  
-- 📊 Data-driven  
-- 💰 Impact-oriented  
+- ⚡ Backend Systems  
+- 🤖 AI/ML Applications  
+- 🔌 Embedded Systems  
+
+I build **scalable, production-level systems** across software and hardware.
 
 ---
 
 ## 🚀 Featured Work
 
-### 💰 SpendWise — AI-Powered Financial Platform
-- Designed backend using **Go + REST APIs**
-- Integrated **intelligent spending insights**
-- Built for real-world student financial decision-making
-- Focus: **scalability, performance, and clean architecture**
+### 💰 SpendWise — AI Financial Platform
+- Backend built with **Go + REST APIs**
+- Intelligent spending insights using data-driven logic
+- Designed for **real-world usage and scalability**
+
+---
+
+## 🔌 Embedded Systems Experience
+
+- Developed systems using **C / Embedded C**
+- Worked with **microcontrollers & low-level programming**
+- Focus on **performance, memory efficiency, and hardware interaction**
+- Experience integrating **software with physical systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages  
-Java • Python • Go • C • C++ • JavaScript • Kotlin  
+### Languages (Visual)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,go,c,cpp,js,kotlin" />
+</p>
 
-### Backend & Systems  
-Spring Boot • Flask • REST APIs • Docker • NGINX • Kafka  
+### Backend & Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,flask,docker,nginx,kafka" />
+</p>
 
-### Frontend  
-React • Vue • HTML • CSS  
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css" />
+</p>
 
-### Cloud & Databases  
-AWS • MongoDB • PostgreSQL • MySQL  
+### Cloud & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,mysql" />
+</p>
 
-### AI / Data  
-PyTorch • TensorFlow • scikit-learn • pandas  
+### AI / Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
 ---
 
@@ -60,30 +77,34 @@ PyTorch • TensorFlow • scikit-learn • pandas
 
 - 🏗️ Backend Architecture & API Design  
 - 🔄 Distributed Systems & Async Processing  
+- 🔌 Embedded Systems & Low-Level Programming  
 - 📊 Data Pipelines & AI Integration  
 - ⚙️ Performance Optimization  
-- 🧼 Clean Architecture & Testable Code  
 
 ---
 
 ## 🏆 Experience Snapshot
 
-- 🧑‍💼 Chief of Staff @ UTMIST — Led cross-functional coordination, streamlined operations, and supported executive decision-making  
-- 💼 Director of Finance — Managed budget, reduced costs by 15%, secured $5000+ in sponsorships  
-- 🤖 AI Research — Built GPT-powered survey systems & automated workflows  
-- 🧑‍💻 Full Stack Engineering — Developed backend-heavy systems with real-world applications  
+- 🧑‍💼 Chief of Staff @ UTMIST — Led cross-team operations & executive coordination  
+- 💼 Director of Finance — Reduced costs by 15%, secured $5000+ sponsorships  
+- 🤖 AI Research — Built GPT-powered automation systems  
+- 🧑‍💻 Full Stack Engineering — Backend-heavy scalable applications  
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Activity & Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihassan200&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alihassan200&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alihassan200&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassan200&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihassan200&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihassan200&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihassan200&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,18 +113,11 @@ PyTorch • TensorFlow • scikit-learn • pandas
 
 - 📊 AI in Finance (LLMs + decision systems)  
 - ⚡ High-performance backend systems  
-- ☁️ Cloud-native architecture (Docker + AWS)  
+- 🔌 Embedded + Software integration  
+- ☁️ Cloud-native architecture  
 
----
 
-## ⚡ Edge
-
-- Combines **Finance + AI + Systems Engineering**  
-- Builds **production-level projects**, not just coursework  
-- Strong leadership + technical execution balance  
-
----
 
 <p align="center">
-  <i>“I build systems that don’t just work — they scale.”</i>
+  <i>“From low-level hardware to scalable cloud systems — I build end-to-end.”</i>
 </p>
