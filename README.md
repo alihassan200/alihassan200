@@ -103,19 +103,14 @@ I build **scalable, production-level systems** across software and hardware.
 
 ## 📈 GitHub Activity & Contributions
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihassan200&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassan200&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=alihassan200&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihassan200&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/409ba5/alihassan200" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihassan200&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🎯 Current Focus
