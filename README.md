@@ -1,5 +1,5 @@
 <h1 align="center">Ali Hassan Shaikh</h1>
-<h3 align="center">Backend Engineer • Embedded Systems • AI/ML </h3>
+<h3 align="center"> Full Stack Engineer • Embedded Systems • AI/ML </h3>
 
 <p align="center">
   <a href="mailto:alihassan672009@outlook.com">Email</a> •
@@ -18,7 +18,7 @@
 
 Computer Science @ University of Toronto focused on:
 
-- ⚡ Backend Systems  
+- ⚡ Full Stack Systems  
 - 🤖 AI/ML Applications  
 - 🔌 Embedded Systems  
 
@@ -28,12 +28,20 @@ I build **scalable, production-level systems** across software and hardware.
 
 ## 🚀 Featured Work
 
-### 💰 SpendWise — AI Financial Platform
-- Backend built with **Go + REST APIs**
-- Intelligent spending insights using data-driven logic
-- Designed for **real-world usage and scalability**
+### 💰 SpendWise — Full-Stack Financial Platform
 
+- Built a scalable platform aggregating financial data, student discounts, and scholarships into a unified dashboard  
+- Developed backend services using **Django REST APIs** and integrated with React frontend  
+- Implemented **CI/CD pipelines (GitHub Actions)** and containerized with Docker for reliable deployment on AWS  
 ---
+
+### 🎓 SmartEdu — AI Teaching Assistant (RAG + Video Retrieval)
+
+**Tech:** Python, Whisper, RAG, Vector Embeddings, scikit-learn, LLaMA  
+
+- Built an end-to-end pipeline converting lecture videos into **structured, searchable data** using Whisper and embeddings  
+- Developed a **RAG-based system** delivering context-aware answers with precise timestamped retrieval  
+- Implemented semantic search using **vector embeddings + cosine similarity** for accurate information retrieval  
 
 ## 🔌 Embedded Systems Experience
 
@@ -83,10 +91,11 @@ I build **scalable, production-level systems** across software and hardware.
 
 ---
 
+
+
 ## 🏆 Experience Snapshot
 
 - 🧑‍💼 Chief of Staff @ UTMIST — Led cross-team operations & executive coordination  
-- 💼 Director of Finance — Reduced costs by 15%, secured $5000+ sponsorships  
 - 🤖 AI Research — Built GPT-powered automation systems  
 - 🧑‍💻 Full Stack Engineering — Backend-heavy scalable applications  
 
