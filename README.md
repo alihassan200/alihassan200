@@ -120,6 +120,12 @@ I build **scalable, production-level systems** across software and hardware.
 - 🔌 Embedded + Software integration  
 - ☁️ Cloud-native architecture  
 
+## 🧩 Beyond Tech
+
+- 📖 Interested in ancient stories, history, and classical narratives  
+- 🏹 Practice archery, focusing on precision and discipline  
+- ⚽ Play football and follow competitive leagues  
+- 🏏 Passionate about cricket  
 
 
 <p align="center">
