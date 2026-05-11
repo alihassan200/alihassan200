@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack Engineer • Embedded Systems • AI/ML </h3>
 
 <p align="center">
-  <a href="mailto:alihassan672009@outlook.com">Email</a> •
+  <a href="mailto:alihassan.shaikh@mail.utoronto.ca">Email</a> •
   <a href="https://linkedin.com/in/ali-hassan-b82127217">LinkedIn</a> •
   <a href="https://github.com/alihassan200">GitHub</a> •
 </p>
