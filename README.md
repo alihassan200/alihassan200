@@ -5,7 +5,6 @@
   <a href="mailto:alihassan672009@outlook.com">Email</a> •
   <a href="https://linkedin.com/in/ali-hassan-b82127217">LinkedIn</a> •
   <a href="https://github.com/alihassan200">GitHub</a> •
-  <a href="https://www.hackerrank.com/alihassan672009">HackerRank</a>
 </p>
 
 <p align="center">
